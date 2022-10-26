@@ -6,7 +6,7 @@ namespace RUAP_ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Luke Markića!\nIdentifikacijski broj: 0165084193.");
+            Console.WriteLine("Pozdrav iz aplikacije od Luke Markića!");
         }
     }
 }
